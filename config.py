@@ -47,8 +47,8 @@ MESSAGES = {
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
     "START_PHOTO": "https://i.ibb.co/671SqSMt/x.jpg",
     "FSUB_PHOTO": "https://i.ibb.co/671SqSMt/x.jpg",
-    "SHORT_PIC": "https://i.ibb.co/671SqSMt/x.jpg",
-    "SHORT": "https://i.ibb.co/671SqSMt/x.jpg"
+    "SHORT_PIC": "https://nearby-blush-byrfsswkn6.edgeone.app/luffy-gear-5-uses-power-desktop-wallpaper-preview.jpg",
+    "SHORT": "cheking subscribtion..."
 }
 
 def LOGGER(name: str, client_name: str) -> logging.Logger:
